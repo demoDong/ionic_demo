@@ -1,6 +1,7 @@
 import { Component, Input } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
+
 /**
  * Generated class for the JumpComponent component.
  *
